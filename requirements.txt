@@ -8,7 +8,7 @@ mdtraj==1.9.1
 networkx==1.11
 numpydoc==0.6.0
 pandas==0.20.1
-py==1.4.33
+py==1.10.0
 scikit-image==0.13.0
 Theano==0.9.0
 traits==4.5.0
